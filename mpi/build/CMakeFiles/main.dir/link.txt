@@ -1,0 +1,1 @@
+/opt/modules/centos/8/mpi/hpcx-v2.7.0-gcc-MLNX_OFED_LINUX-4.7-1.0.0.1-redhat8.1-x86_64/hpcx-rebuild/bin/mpic++ -rdynamic -fopenmp CMakeFiles/main.dir/main.cpp.o -o ../bin/main 

@@ -1,0 +1,3 @@
+/home/common/KAiTP/pd066/fominiv-mpi/build/CMakeFiles/rebuild_cache.dir
+/home/common/KAiTP/pd066/fominiv-mpi/build/CMakeFiles/main.dir
+/home/common/KAiTP/pd066/fominiv-mpi/build/CMakeFiles/edit_cache.dir

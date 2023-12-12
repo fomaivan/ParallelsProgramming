@@ -1,0 +1,6 @@
+SELECT TRANSFORM(ip, querry_time, site_http, client_page, http_scode, client_app)
+ USING './script.sh' as scr
+  FROM Logs
+ LIMIT 10;
+
+ awk '{sub(/\.ru/, ".com", $3); print}'

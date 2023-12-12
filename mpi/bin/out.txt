@@ -1,0 +1,17 @@
+=========================================
+SLURM_JOB_ID = 778161
+SLURM_JOB_NODELIST = node20-39
+SLURM_CPUS_ON_NODE = 8
+SLURM_JOB_PARTITION = RT
+SLURM_TASK_PID = 225333
+==========================================
+Process 3 has the partial result of 0.419508
+Process 4 has the partial result of 0.379807
+Process 2 has the partial result of 0.455168
+Process 1 has the partial result of 0.482495
+Process 6 has the partial result of 0.301316
+Process 7 has the partial result of 0.266273
+Process 5 has the partial result of 0.339607
+Process 0 has the partial result of 0.497420
+Sum of part = 3.14159
+Single process result = 3.14159

@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="hive-exec">
+    <CLASSES>
+      <root url="jar:///usr/lib/hive/lib/hive-exec.jar!/" />
+      <root url="jar:///usr/lib/hadoop-mapreduce/hadoop-mapreduce-client-core.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
